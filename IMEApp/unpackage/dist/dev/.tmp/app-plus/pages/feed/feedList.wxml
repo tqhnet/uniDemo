@@ -1,0 +1,1 @@
+<cu-custom vue-id="1" bgImage="https://image.weilanwl.com/color2.0/plugin/wdh2236.jpg" bind:__l="__l" vue-slots="{{['content']}}"><view slot="content">首页</view></cu-custom>

@@ -1,0 +1,27 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/feed/feedList",
+    "pages/me/me",
+    "pages/detail/detail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarBackgroundColor": "#0081ff",
+    "navigationBarTitleText": "ColorUi for UniApp",
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "white"
+  },
+  "nvueCompiler": "weex",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "IMEApp",
+  "compilerVersion": "2.1.1",
+  "usingComponents": {
+    "feed-list": "/pages/feed/feedList",
+    "me": "/pages/me/me",
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}
